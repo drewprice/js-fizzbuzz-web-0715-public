@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="4" errors="0" failures="0" time="0.007" timestamp="2015-09-08T17:16:58">
+		<testcase classname="fizzbuzz" name="returns Fizz if the number is divisible by 3" time="0.003">
+		</testcase>
+		<testcase classname="fizzbuzz" name="returns Buzz if the number is divisible by 5" time="0">
+		</testcase>
+		<testcase classname="fizzbuzz" name="returns FizzBuzz if the number is divisible by 3 and 5" time="0">
+		</testcase>
+		<testcase classname="fizzbuzz" name="returns the number if it is not divisible by 3 or 5" time="0">
+		</testcase>
+	</testsuite>
+</testsuites>
+

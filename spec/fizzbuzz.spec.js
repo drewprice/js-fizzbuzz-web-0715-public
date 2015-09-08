@@ -1,3 +1,5 @@
+// var fizzbuzz = require('../lib/fizzbuzz');
+
 'use strict';
 
 describe('fizzbuzz', function() {
